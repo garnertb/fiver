@@ -36,10 +36,10 @@ Options:
   --help              Show this message and exit.
   ```
 
-  Fiver needs three elements in order to run:
-     1. The input CSV file.
-     2. The start date (YYYY-MM-DD).
-     3. The end date (YYYY-MM-DD).
+Fiver needs three elements in order to run:
+   1. The input CSV file.
+   2. The start date (YYYY-MM-DD).
+   3. The end date (YYYY-MM-DD).
 
 
 **Note:** The default timezone for fiver is `US/Eastern`.  Make sure to specify the `--timezone` flag with your actual timezone.
